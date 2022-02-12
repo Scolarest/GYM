@@ -1,0 +1,97 @@
+body {
+    background-color: #3C3C3C;
+    ;
+    font-family: 'Barlow', sans-serif;
+}
+
+.saat {
+    color: white;
+}
+
+.week {
+    color: white;
+}
+
+h1~p {
+    color: white;
+}
+
+.button {
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: red;
+    padding: 20px;
+}
+
+.main {
+    margin: auto;
+    width: 1200px;
+}
+
+.member {
+    background-color: #1F2327;
+}
+
+.member-checklist-details b {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 40px;
+}
+
+.member-checklist-details {
+    margin-left: 21px;
+}
+
+.member-checklist-details h4 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    margin: 0;
+}
+
+.member h2 {
+    font-size: 36px;
+    color: white;
+}
+
+.member>div {
+    color: white;
+    display: inline-block;
+    width: 24%;
+}
+
+.gym-photo {
+    width: 566px;
+    height: 251px;
+    left: 0px;
+    top: 0px;
+    background-color: red;
+}
+
+.gym-photos-section>div {
+    display: inline-block;
+}
+
+.gym-photos-section {
+    margin-top: 97px;
+}
+
+.gym-photos-details-right {
+    margin-left: 67px;
+}
+
+.gym-photos-details-left {
+    margin-right: 67px;
+}
+
+.gym-photos h6 {
+    margin: 0;
+    color: white;
+}
+
+.checklist>* {
+    display: inline-block;
+}
